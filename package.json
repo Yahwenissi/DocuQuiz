@@ -9,6 +9,6 @@
   },
   "scripts": {
     "build": "react-scripts build",
-    "start": "GENERATE_SOURCEMAP=false react-scripts start"
+    "start": "CI=true react-scripts start"
   }
 }
