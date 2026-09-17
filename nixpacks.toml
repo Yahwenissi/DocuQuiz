@@ -1,0 +1,5 @@
+[build]
+include_dev_dependencies = true
+
+[deploy]
+port = 3000
